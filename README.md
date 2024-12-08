@@ -1,6 +1,8 @@
 # Current progress: "Serverless BI"
 The latest version of the project is available at [mdsinabox.com](http://www.mdsinabox.com). The website embraces the notion of "Serverless BI" - the pages are built asynchronously with open source software on commodity hardware and then pushed to a static site. The github action that automatically deploys the site upon PR can be [found here](https://github.com/matsonj/nba-monte-carlo/blob/master/.github/workflows/deploy_on_netlify.yml).
 
+U
+
 # MDS-in-a-box
 This project serves as end to end example of running the "Modern Data Stack" on a single node. The components are designed to be "hot swappable", using makefile to create clearly defined interfaces between discrete components in the stack. It runs in many enviroments with many visualization options. In addition, the data transformation documentation is [self hosted on github pages](https://matsonj.github.io/nba-monte-carlo/#!/overview).
 ## Many Environments
